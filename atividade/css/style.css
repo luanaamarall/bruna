@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 940px;
+    margin: auto;
+}
+
+h1{
+    background-color: #E1EDF2;
+    color: #3D3D3D;
+    padding: 10px;
+}
+
+p{
+    padding: 10px;
+}
+
+.img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    margin: 30px;
+}
+

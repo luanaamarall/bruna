@@ -1,0 +1,52 @@
+@charset "UTF-8";
+
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+
+body{
+    background-color: #C377F2;
+}
+
+h1{
+    padding: 20px;
+    color: blueviolet; 
+}
+
+h2{
+    padding: 20px;
+    color: blueviolet;
+}
+
+p{
+    padding: 20px;
+}
+
+#menu{
+    width: 700px;
+}
+
+#fundo{
+    background-color: blueviolet;
+    margin: auto;
+    padding: 10px;
+    width: 1000px;
+}
+
+.back{
+    background-image: linear-gradient(to left, blueviolet, white);
+}
+
+a{
+    text-decoration: none;
+}
+
+a:hover{
+    background-color: white;
+    color: blueviolet;
+    border-radius: 15px;
+    padding: 10px;
+}

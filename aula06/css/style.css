@@ -1,0 +1,36 @@
+@charset "UTF-8";
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+}
+
+header{
+    background-color: #2E6E8F;
+    color: white;
+    padding: 100px;
+}
+
+h1{
+    text-align: center;
+}
+
+.conteudo{
+    color: ;
+    padding: 30px;
+}
+
+img{
+
+}
+
+.listas{
+    padding: 30px;
+    background-color: #3D5866;
+    width: 600px;
+}
